@@ -585,7 +585,7 @@
 
 [18,0],"Replace; 置き換え",
 [18,1],"Unite; 合体",
-[18,2],"Subtract; 減数",
+[18,2],"Subtract; 減算",
 [18,3],"Intersect; 交差",
 [18,4],"Exclude; 除外",
 [18,5],"Merge; マージ",
