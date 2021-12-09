@@ -244,6 +244,8 @@
 [9,10],"Histogram; ヒストグラム",
 [9,11],"Navigator; ナビゲーター",
 [9,12],"Tool Presets; ツール プリセット",
+[9,13],"Glyphs; 文形",
+[9,14],"Notes; ノート",
 
 [10,0],"Brush Tool; ブラシ ツール",
 [10,1],"Clone Tool; コピー ツール",
