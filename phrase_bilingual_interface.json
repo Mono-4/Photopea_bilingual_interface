@@ -112,7 +112,7 @@
 			[1, 12, 0],
 			"Close; 閉じる",
 			[1, 12, 1],
-			"OK::if you keep it empty, \"OK\" will be used; OK",
+			"OK",
 			[1, 12, 2],
 			"Reset::if you keep it empty, \"Reset\" will be used; リセット",
 			[1, 13],
